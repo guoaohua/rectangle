@@ -1,1 +1,13 @@
-
+.div1{text-align:center;width:100%;}
+#juxingjisuanqi{
+	position: relative;
+	width: 100px;
+	width: 370px;
+	margin: 0px auto;
+	font-size: 1.4em;
+}
+input,span {
+	margin: 5px 0;
+	padding-left: 5px;
+	font-size: 1.1em;
+}
