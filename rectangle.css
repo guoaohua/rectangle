@@ -1,14 +1,14 @@
 .juxingjisuanqi{
-    text-align:center;
-    display:table-cell;
-    vertical-align:middle;
+    position:absolute;
+    left:50%;
+    right:50%;
     width: 370px;
     margin:200px auto;
     font-size: 1.2em;
 }
 
 #jisuan {
-    display:inline-block;
+    width:370px;
     font-size: 1.2em;
 }
 
