@@ -1,13 +1,15 @@
 .juxingjisuanqi{
+    position:relative;
     width: 370px;
     margin:200px auto;
     font-size: 1.2em;
 }
 
 #jisuan {
-    width: 85px;
-    height: 40px;
-    margin-left: 65px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
     font-size: 1.2em;
 }
 
